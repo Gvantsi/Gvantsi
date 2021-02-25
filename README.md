@@ -9,5 +9,3 @@
 - 💬 Ask me about ANYTHING   
 - 📫 How to reach me, my gmail: gvantsaberidze22@gmail.com
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: 
--->
