@@ -3,7 +3,7 @@
 
 
 
-[![Gvantsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gvantsi)](https://github.com/anuraghazra/github-readme-stats)
+![Gvantsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gvantsi&show_icons=true&theme=onedark)
 
 
 
