@@ -9,6 +9,12 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gvantsi)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 - 🔭 I’m currently working on improving my self in Mobile app development
 - 🌱 I’m currently learning  JAVA, C++ 
 - 💬 Ask me about ANYTHING   
