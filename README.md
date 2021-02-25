@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Mobile app development
+- 🔭 I’m currently working on ... on improving my self in Mobile app development
 - 🌱 I’m currently learning ... JAVA, C++ 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
