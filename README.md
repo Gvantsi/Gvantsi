@@ -17,8 +17,7 @@
 
 - 🔭 I’m currently working on improving my self in Mobile app development
 - 🌱 I’m currently learning  JAVA, C++ 
-- 💬 Ask me about ANYTHING   
-- 😄 Pronouns: SHE/HER
+
 
 
 
